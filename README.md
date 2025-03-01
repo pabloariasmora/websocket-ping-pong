@@ -10,7 +10,7 @@ A simple example demonstrating WebSocket ping/pong message exchange using Python
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/websocket-ping-pong.git
+git clone https://github.com/pabloariasmora/websocket-ping-pong.git
 cd websocket-ping-pong
 ```
      
